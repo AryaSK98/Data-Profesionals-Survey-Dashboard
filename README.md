@@ -7,7 +7,7 @@ Data was loaded, transformed and visualised using Power BI.
 * Visualizations used in the dashboard include treemap, column chart, gauge chart, stacked column chart, donut chart, bar chart and cards.
 
 This project was done with the help of Alex Freberg by following his videos in the youtube channel 'Alex The Analyst'.
-You can find the video here: https://www.youtube.com/watch?v=pixlHHe_lNQ
+
 
 
 
